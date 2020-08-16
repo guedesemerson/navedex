@@ -1,6 +1,6 @@
 # Description
 
-In this sample application, you will execute aapi using Django and Django Rest Framework, with standard best practices and respecting the rules.
+In this sample application, you will execute an api using Django and Django Rest Framework, with standard best practices and respecting the rules.
 
 # Navedex Api
 
