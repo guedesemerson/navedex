@@ -28,7 +28,7 @@ pip install -r requirements.txt
 python manage.py migrate
 ```
 
-###To run your application locally:
+### To run your application locally:
 
 ```bash
 python manage.py runserver
