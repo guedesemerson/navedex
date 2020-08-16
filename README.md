@@ -1,6 +1,6 @@
 # Description
 
-In this sample application, you will create a web service application using Django and Django Rest Framework, with standard best practices and respecting the rules.
+In this sample application, you will execute aapi using Django and Django Rest Framework, with standard best practices and respecting the rules.
 
 # Navedex Api
 
@@ -14,6 +14,12 @@ You can get started building this application locally, but you can either run th
 ### Building Locally
 * Python >= 3.6
 * Install [Python](https://www.python.org/downloads/)
+
+### Create and activate your virtuanenv
+```bash
+virtualenv -p python3 virtualEnv 
+source virtualEnv/bin/activate
+```
 
 Running Django applications: You can download the project dependencies with:
 
