@@ -9,7 +9,7 @@ This app contains an opinionated set of endpoints for web serving:
 ## Steps
 
 ### Execute web service
-You can get started building this application locally, but you can either run the application in web using the heroku link host web (http://navedex.herokuapp.com).
+You can get started building this application locally, but you can either run the application in web using the heroku link host web (http://navedexapi.herokuapp.com).
 
 ### Building Locally
 * Python >= 3.6
